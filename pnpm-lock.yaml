@@ -1,7 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@atlaskit/css-reset': 6.3.10
+  '@atlaskit/css-reset': 6.3.11
   '@atlaskit/theme': 12.1.6
   '@babel/core': 7.17.9
   '@babel/eslint-parser': 7.17.0
@@ -142,7 +142,7 @@ dependencies:
   use-memo-one: 1.1.2_react@17.0.2
 
 devDependencies:
-  '@atlaskit/css-reset': 6.3.10_react@17.0.2
+  '@atlaskit/css-reset': 6.3.11_react@17.0.2
   '@atlaskit/theme': 12.1.6_react@17.0.2
   '@babel/core': 7.17.9
   '@babel/eslint-parser': 7.17.0_@babel+core@7.17.9+eslint@8.13.0
@@ -281,8 +281,8 @@ packages:
       '@babel/runtime': 7.17.9
     dev: true
 
-  /@atlaskit/css-reset/6.3.10_react@17.0.2:
-    resolution: {integrity: sha512-iWl0v4EjDEs0OgpDQAQOlK/4EkbZM0BWP5UUF+uw9KM8n4WfaneBHuAuFPZ0rowh5cO8QIuM+bMYLZw/VNCJKQ==}
+  /@atlaskit/css-reset/6.3.11_react@17.0.2:
+    resolution: {integrity: sha512-l9NnjFVDxdorWLCVpHq5rAyfG9uH+IE6SVLEdoFEoV8sfpPWaPJll7WHP4/trjOzpP85XKqgzcLDlXeim0DEgw==}
     peerDependencies:
       react: ^16.8.0
     dependencies:
